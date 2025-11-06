@@ -1,9 +1,8 @@
- To-Do List App (Tkinter)
+To-Do List App (Tkinter)
 
 A simple and elegant **To-Do List desktop app** built using **Python’s Tkinter GUI library**.  
 It allows you to **add**, **edit**, **delete**, and **save** your daily tasks — with automatic loading from a local file.
 
----
 
 Features
 
